@@ -1,0 +1,6 @@
+[
+    {"command": "spanning tree", "description": "garanteaza ca nu ai bucle intre switchuri "},
+    {"command": "no cdp run ", "description": "Dezactiveaza protcolul cdp"},
+    {"command": "show ip route", "description": "Afiseaza toate rutele"}, 
+    {"command" : "rip", "description" : " Asta este la examen :("}
+]
